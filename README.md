@@ -1,4 +1,4 @@
-# Bienvenue su ma page Github
+# Bienvenue sur ma page Github
 
 Hi! Sur cette page vous trouverez les liens vers mes **projet divers** . Cela comprends des projet scolaire, projet personnel, des participations à des projet OpenSource ainsi que des projet public. Certains projet sont rester privés.
 
