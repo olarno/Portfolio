@@ -13,6 +13,8 @@ Hi! Sur cette page vous trouverez les liens vers mes **projet divers** . Cela co
 
 ### Techniques utilisées 
 
+- Symfony 
+- Templating : Twig / blade 
 - Intégraion web (sémantique / mise en page / mise en forme) (HTML5 / CSS3)
 - Bootstrap / bulma / pureCss
 - Intégration de données (Base de données - interaction serveur) (MySQL / PHP 7 / POO)
@@ -33,6 +35,7 @@ Hi! Sur cette page vous trouverez les liens vers mes **projet divers** . Cela co
 - projet d'une site e-commerce (PHP/MySQL-MVC => Back-end HTML/CSS/JS => Front) 
 - creation d'une api de todolist(API - Lumen / Front - JS) 
 - projection d'une api (https://www.potterapi.com/)
+- Page fan AngryBird (projet sous symfony)
   
 
 
