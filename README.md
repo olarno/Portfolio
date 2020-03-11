@@ -2,7 +2,7 @@
 
 Hi! Sur cette page vous trouverez les liens vers mes **projets divers** . Cela comprends des projets scolaires, projets personnels, des participations à des projets OpenSource ainsi que des projets publics. Certains projets sont restés privés.
 
-# [portfolio](https://dev1.rom1.ovh/)
+# [Portfolio](https://dev1.rom1.ovh/)
 
 ### Techniques utilisées 
 
