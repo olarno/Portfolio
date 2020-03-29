@@ -1,7 +1,6 @@
 ---
 name: Nouvelle idée de projet
 about: Description de votre idée de projet !
-title: ''
 ---
 
 ## Titre du projet
