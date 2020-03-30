@@ -21,14 +21,18 @@ Hi! Sur cette page vous trouverez les liens vers mes **projets divers** . Cela c
 
 ### Listing des projets  
 
+#### Projet scolaire
 - Présentation d'une série télévisée française (HTML/CSS)   
 - Présentation de différents animaux de la même espèce (HTML/CSS - bootstrap)
 - Présentation d'un cinéma avec gestion des films à l'afffiche et gestion tarifaire (PHP / HTML/CSS)
 - Présentation d'une boutique (type coffee shop) (PHP - MVC / HTML/CSS)
 - Projet d'une site e-commerce (PHP/MySQL-MVC => back-end HTML/CSS/JS => front-end) 
 - Création d'une API de Todolist(API - Lumen / Front - JS) 
-- Projection d'une API (https://www.potterapi.com/)
 - Fanpage AngryBird (Symfony => back-end & front-end)
+
+#### Projet perso
+- Gestionnaire de contact (En cours) [Depot git](https://github.com/olarno/Gestionnaire_contact)
+- Blog de pensées (En cours)  [Depot git](https://github.com/olarno/Thought_of_the_day)
 
 ## Liens ressources
 
