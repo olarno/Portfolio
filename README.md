@@ -4,21 +4,6 @@ Hi! Sur cette page vous trouverez les liens vers mes **projets divers** . Cela c
 
 # [Portfolio](https://dev1.rom1.ovh/)
 
-### Techniques utilisées 
-
-- Symfony 
-- Templating : Twig / blade 
-- Intégration web (sémantique / mise en page / mise en forme) (HTML5 / CSS3)
-- Bootstrap / bulma / pureCss
-- Intégration de données (Base de données - interaction serveur) (MySQL / PHP 7 / POO)
-- PhpMyAdmin
-- Intéraction utilisateur (JavaScript)
-- Gestion de projet (Agile / Scrum)
-- Création d'API (lumen / JavaScript / PHP)
-- Rédaction de documentation (MarkDown)
-- Versionning de projet (git / github)
-- AWS Mise en production 
-
 ### Listing des projets  
 
 #### Projet scolaire
@@ -33,6 +18,21 @@ Hi! Sur cette page vous trouverez les liens vers mes **projets divers** . Cela c
 #### Projet perso
 - Gestionnaire de contact (En cours) [Depot git](https://github.com/olarno/Gestionnaire_contact)
 - Blog de pensées (En cours)  [Depot git](https://github.com/olarno/Thought_of_the_day)
+
+### Techniques utilisées 
+
+- Symfony 
+- Templating : Twig / blade 
+- Intégration web (sémantique / mise en page / mise en forme) (HTML5 / CSS3)
+- Bootstrap / bulma / pureCss
+- Intégration de données (Base de données - interaction serveur) (MySQL / PHP 7 / POO)
+- PhpMyAdmin
+- Intéraction utilisateur (JavaScript)
+- Gestion de projet (Agile / Scrum)
+- Création d'API (lumen / JavaScript / PHP)
+- Rédaction de documentation (MarkDown)
+- Versionning de projet (git / github)
+- AWS Mise en production 
 
 ## Liens ressources
 
