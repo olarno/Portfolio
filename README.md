@@ -36,6 +36,10 @@ Hi! Sur cette page vous trouverez les liens vers mes **projets divers** . Cela c
 - Versionning de projet (git / github)
 - AWS Mise en production 
 
+### Certification 
+
+- Opquast - Maitrise de la qualité en projet web [lien opquast](https://directory.opquast.com/fr/certificat/USODFC/)
+
 ## Liens ressources
 
 - [markdown](https://stackedit.io/app#)
