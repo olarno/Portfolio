@@ -2,7 +2,7 @@
 
 Hi! Sur cette page vous trouverez les liens vers mes **projets divers** . Cela comprends des projets scolaires, projets personnels, des participations à des projets OpenSource ainsi que des projets publics. Certains projets sont restés privés.
 
-# [Portfolio](https://dev1.rom1.ovh/)
+# Portfolio
 
 ### Listing des projets  
 
@@ -18,6 +18,8 @@ Hi! Sur cette page vous trouverez les liens vers mes **projets divers** . Cela c
 #### Projet perso
 - Gestionnaire de contact (En cours) [Depot git](https://github.com/olarno/Gestionnaire_contact)
 - Blog de pensées (En cours)  [Depot git](https://github.com/olarno/Thought_of_the_day)
+- Gestionnaire de livre (En cours)  [Depot git](https://github.com/olarno/Biblio)
+- Todolist (En cours)  [Depot git](https://github.com/olarno/Todolist)
 
 ### Techniques utilisées 
 
