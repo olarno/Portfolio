@@ -1,49 +1,51 @@
-# Bienvenue sur ma page Github
+# Welcome to my Github page
 
-Hi! Sur cette page vous trouverez les liens vers mes **projets divers** . Cela comprends des projets scolaires, projets personnels, des participations à des projets OpenSource ainsi que des projets publics. Certains projets sont restés privés.
+On this page you will find links to my **miscellaneous projects**. This includes school projects, personal projects, participations in OpenSource projects as well as public projects. Some projects are kept private.
 
 # Portfolio
 
 ### Listing des projets  
 
-#### Projet scolaire
-- Présentation d'une série télévisée française (HTML/CSS)   
-- Présentation de différents animaux de la même espèce (HTML/CSS - bootstrap)
-- Présentation d'un cinéma avec gestion des films à l'afffiche et gestion tarifaire (PHP / HTML/CSS)
-- Présentation d'une boutique (type coffee shop) (PHP - MVC / HTML/CSS)
-- Projet d'une site e-commerce (PHP/MySQL-MVC => back-end HTML/CSS/JS => front-end) 
-- Création d'une API de Todolist(API - Lumen / Front - JS) 
+#### Professional project
+- E-commerce (Prestashop) 
+- Iot management, dashboard (Symfony, vue.js)
+- API Rest - communication / payment / live sync (Symfony)
+- Migration Prestashop -> Symfony
+- Creation of portable web servers (LAMP)
+- Migration Access management on Symfony
+- Migration Drupal -> Symfony
+
+#### School project
+- Single page: presentation of a French film (HTML/CSS)   
+- Single page: Glossary of animals with photo and grouping by species (HTML/CSS - bootstrap)
+- Management of a movie theater, film on display, management of price lists (PHP / HTML/CSS)
+- Multi pages: Presentation of a store (PHP - MVC / HTML/CSS)
+- E-commerce (PHP/MySQL-MVC => back-end HTML/CSS/JS => front-end) 
+- Todolist (API - Lumen / Front - JS) 
 - Fanpage AngryBird (Symfony => back-end & front-end)
+- Pokedex, management of your pokemons, battle simulator (Symfony => back-end & front-end)
 
-#### Projet perso
-- Gestionnaire de contact (En cours) [Depot git](https://github.com/olarno/Gestionnaire_contact)
-- Blog de pensées (En cours)  [Depot git](https://github.com/olarno/Thought_of_the_day)
-- Gestionnaire de livre (En cours)  [Depot git](https://github.com/olarno/Biblio)
-- Todolist (En cours)  [Depot git](https://github.com/olarno/Todolist)
+#### Personnal project
+- refacto in progress 
 
-### Techniques utilisées 
+
+### Skills
 
 - Symfony 
 - Templating : Twig / blade 
-- Intégration web (sémantique / mise en page / mise en forme) (HTML5 / CSS3)
+- Web integration (sémantique / mise en page / mise en forme) (HTML5 / CSS3)
 - Bootstrap / bulma / pureCss
-- Intégration de données (Base de données - interaction serveur) (MySQL / PHP 7 / POO)
+- Database structure (Base de données - interaction serveur) (MySQL / PHP 7 / POO)
 - PhpMyAdmin
-- Intéraction utilisateur (JavaScript)
-- Gestion de projet (Agile / Scrum)
-- Création d'API (lumen / JavaScript / PHP)
-- Rédaction de documentation (MarkDown)
-- Versionning de projet (git / github)
-- AWS Mise en production 
+- Live interaction (JavaScript)
+- Project management (Agile / Scrum)
+- API rest creation (Symfony/ lumen / JavaScript / PHP)
+- Write documentation (MarkDown, confluence)
+- Versioning (git / github)
+- AWS
 
 ### Certification 
 
-- Opquast - Maitrise de la qualité en projet web [lien opquast](https://directory.opquast.com/fr/certificat/USODFC/)
+- Opquast - Quality control in web projects [lien opquast](https://directory.opquast.com/fr/certificat/USODFC/)
 
-## Liens ressources
-
-- [markdown](https://stackedit.io/app#)
-- [css reference](https://cssreference.io/)
-- [css reference](https://htmlreference.io/)
-- [docs reference](https://devdocs.io/)
 
